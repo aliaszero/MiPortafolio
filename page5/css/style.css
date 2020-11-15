@@ -1,0 +1,40 @@
+* {
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+#navbar {
+    box-shadow: orangered 0px 5px 5px;
+}
+
+#projects {
+background-color: rgb(203, 219, 255);    
+}
+
+#welcome-section
+{
+background-image: url('./../img/cool-geometric-triangular-figure-in-neon-laser-light-great-for-backgrounds-and-wallpapers.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 100vh;
+}
+#welcome-section h1 {
+  font-size: 5rem;  
+  font-weight: 900;
+  color: white;
+  text-shadow: 2px 2px orangered;
+}
+.img2 {
+height: 250px;
+}
+                        
+.icons {
+    color: Dodgerblue;
+    transition:1s;
+font-size: 48px;
+}
+.icons:hover {
+    color: Tomato;
+    text-shadow: 1px 2px black;
+    font-size: 56px;
+}
